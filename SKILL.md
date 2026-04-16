@@ -48,7 +48,7 @@ Never use these. Find concrete alternatives or restructure.
 
 ### No Repetition Across Sections
 
-Explain each concept in detail exactly once. Every other mention references that explanation, not re-explains it. This applies across chapters, sections, and the full document. If a term was defined in the introduction, the discussion doesn't define it again. If a method was described in Methods, Results doesn't re-describe it.
+Never state the same fact, definition, or idea twice. Not across sections, not within a paragraph, not anywhere in the document. Explain it once, clearly, in the right place. Every subsequent mention refers back, not re-explains. If a term was defined in the introduction, the discussion doesn't define it again. If a method was described in Methods, Results doesn't re-describe it. If a fact appeared in sentence two, sentence five doesn't rephrase it. One and done.
 
 ### Structural Rules
 
