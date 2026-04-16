@@ -46,6 +46,10 @@ Never use these. Find concrete alternatives or restructure.
 - No vague attribution ("experts argue," "observers note") without naming them.
 - No hedging preambles ("While relatively obscure, it nonetheless..."). Just state it.
 
+### No Repetition Across Sections
+
+Explain each concept in detail exactly once. Every other mention references that explanation, not re-explains it. This applies across chapters, sections, and the full document. If a term was defined in the introduction, the discussion doesn't define it again. If a method was described in Methods, Results doesn't re-describe it.
+
 ### Structural Rules
 
 - Em dashes: maximum one per paragraph. Prefer commas, parentheses, or colons.
