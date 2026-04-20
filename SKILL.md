@@ -7,6 +7,17 @@ description: Write research papers, scientific manuscripts, reports, essays, and
 
 This skill has three layers. Apply all three to every piece of writing.
 
+## Editing an Existing Document
+
+When asked to review, edit, or improve an existing document, work paragraph by paragraph. For each paragraph:
+
+1. Check against every rule in Layer 1 (banned vocabulary, sentence patterns, significance inflation, tone, no repetition, structural rules).
+2. Check against every rule in Layer 2 (IMRAD compliance, citation correctness, figure/table quality, field-specific language, writing quality, tense consistency).
+3. Check against every rule in Layer 3 (claims supported by evidence, no logical fallacies, proportional confidence, no vague attribution, bias awareness).
+4. Rewrite the paragraph if any violations are found. If the paragraph is clean, leave it unchanged.
+
+Do not skip paragraphs. Do not summarize changes at the end. Fix as you go.
+
 ## Layer 1: Human Voice (apply to ALL writing)
 
 ### Banned Vocabulary
