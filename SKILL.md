@@ -14,9 +14,9 @@ When asked to review, edit, or improve an existing document, work paragraph by p
 1. Check against every rule in Layer 1 (banned vocabulary, sentence patterns, significance inflation, tone, no repetition, structural rules).
 2. Check against every rule in Layer 2 (IMRAD compliance, citation correctness, figure/table quality, field-specific language, writing quality, tense consistency).
 3. Check against every rule in Layer 3 (claims supported by evidence, no logical fallacies, proportional confidence, no vague attribution, bias awareness).
-4. Rewrite the paragraph if any violations are found. If the paragraph is clean, leave it unchanged.
+4. If any violations are found, rewrite the paragraph and output a diff showing the original and the corrected version. If clean, move on.
 
-Do not skip paragraphs. Do not summarize changes at the end. Fix as you go.
+Do not skip paragraphs. Every changed paragraph must include its diff.
 
 ## Layer 1: Human Voice (apply to ALL writing)
 
